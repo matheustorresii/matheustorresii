@@ -38,7 +38,4 @@
   <a href="https://www.linkedin.com/in/matheustorresii/" target="blank">
     <img src="https://img.shields.io/badge/-@matheustorresii-0A66C2?&logo=LinkedIn&logoColor=white&logoWidth=20"/>
   </a>
-  <a href="https://twitter.com/MatheusTorresII" target="blank">
-    <img src="https://img.shields.io/badge/-@matheustorresii-1DA1F2?&logo=Twitter&logoColor=white&logoWidth=20"/>
-  </a>
 </div>
