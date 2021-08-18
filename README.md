@@ -1,6 +1,6 @@
 <img alt="gif" src="https://i.imgur.com/pQWI7gn.gif" width="100%"/> </br>
 
-# <div align="center">🧡 iOS developer at <a href="https://www.bancointer.com.br/" target="blank"><img height="24" src="https://i.imgur.com/dFCH5kI.png"/></a> 🧡</div>
+# <div align="center">iOS developer at <a href="https://www.bancointer.com.br/" target="blank"><img height="24" src="https://i.imgur.com/dFCH5kI.png"/></a></div>
 
 ##### <div align=""> About Me: </div>
 - <div align="">Currently studying System Analysis and Development at <a href="https://www.cotemig.com.br/">Cotemig</a>.</div>
