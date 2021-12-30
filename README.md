@@ -3,7 +3,7 @@
 # <div align="center">iOS developer at <a href="https://www.bancointer.com.br/" target="blank"><img height="24" src="https://i.imgur.com/dFCH5kI.png"/></a></div>
 
 ##### <div align=""> About Me: </div>
-- <div align="">Currently studying System Analysis and Development at <a href="https://www.cotemig.com.br/">Cotemig</a>.</div>
+- <div align="">Currently studying System Analysis and Development at <a href="https://www.fiap.com.br/">FIAP</a>.</div>
 - <div align="">Information Technology Technician by <a href="https://www.cotemig.com.br/">Cotemig</a>.</div>
 - <div align="">I love Video Games 🎮, Music 🎵 and Chess ♟️.</div>
 
