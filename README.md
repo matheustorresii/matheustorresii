@@ -1,6 +1,6 @@
 <img alt="gif" src="https://i.imgur.com/pQWI7gn.gif" width="100%"/> </br>
 
-# <div align="center">Senior iOS Engineer at <a href="https://mybeesapp.com/" target="blank"><img height="24" src="https://i.imgur.com/iZFd0aS.png"/></a></div>
+# <div align="center">Senior iOS Engineer at <a href="https://inter.co/" target="blank"><img height="32" src="https://i.imgur.com/raVPV1c.png"/></a></div>
 
 ##### <div align=""> About Me: </div>
 - <div align="">Currently studying System Analysis and Development at <a href="https://www.fiap.com.br/">FIAP</a>.</div>
