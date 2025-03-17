@@ -1,37 +1,11 @@
 <img alt="gif" src="https://i.imgur.com/pQWI7gn.gif" width="100%"/> </br>
 
-# <div align="center">Senior iOS Engineer at <a href="https://inter.co/" target="blank"><img height="32" src="https://i.imgur.com/raVPV1c.png"/></a></div>
+# <div align="center">Senior iOS Engineer at <br> <a href="https://picpay.com/" target="blank"><img height="48" src="https://i.imgur.com/rSQsuIZ.png"/></a></div>
 
 ##### <div align=""> About Me: </div>
 - <div align="">Currently studying System Analysis and Development at <a href="https://www.fiap.com.br/">FIAP</a>.</div>
 - <div align="">Information Technology Technician by <a href="https://www.cotemig.com.br/">Cotemig</a>.</div>
 - <div align="">I love Video Games 🎮, Music 🎵 and Chess ♟️.</div>
-
-##### <div align=""> Main Skills: </div>
-
-<div align="">
-  <a href="https://developer.apple.com/swift/" target="blank">
-    <img src="https://img.shields.io/badge/-Swift-FA7343?&logo=Swift&logoColor=white&logoWidth=20"/>
-  </a>
-  <a href="https://kotlinlang.org/" target="blank">
-    <img src="https://img.shields.io/badge/-Kotlin-D0564B?&logo=Kotlin&logoColor=white&logoWidth=20"/>
-  </a>
-  <a href="https://nodejs.org/en/" target="blank">
-    <img src="https://img.shields.io/badge/-Node.Js-339933?&logo=Node.Js&logoColor=white&logoWidth=20"/>
-  </a>
-  <a href="https://pt-br.reactjs.org/" target="blank">
-    <img src="https://img.shields.io/badge/-React-0088CC?&logo=React&logoColor=white&logoWidth=20"/>
-  </a>
-  <a href="https://flutter.dev/" target="blank">
-    <img src="https://img.shields.io/badge/-Flutter-02569B?&logo=Flutter&logoColor=white&logoWidth=20"/>
-  </a>
-    <a href="https://git-scm.com/" target="blank">
-  <img src="https://img.shields.io/badge/-Git-e94e2f?&logo=Git&logoColor=white&logoWidth=20"/>
-  </a>
-  <a href="https://developer.apple.com/xcode/" target="blank">
-    <img src="https://img.shields.io/badge/-Xcode-1493e4?&logo=Xcode&logoColor=white&logoWidth=20"/>
-  </a>
-</div>
 
 ##### <div align=""> You can find me in: </div>
 <div align="">
