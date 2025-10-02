@@ -3,9 +3,9 @@
 # <div align="center">Senior iOS Engineer at <br> <a href="https://picpay.com/" target="blank"><img height="48" src="https://i.imgur.com/rSQsuIZ.png"/></a></div>
 
 ##### <div align=""> About Me: </div>
-- <div align="">Currently studying System Analysis and Development at <a href="https://www.fiap.com.br/">FIAP</a>.</div>
+- <div align="">Bachelor’s Degree in Systems Analysis and Development from <a href="https://www.fiap.com.br/">FIAP</a>.</div>
 - <div align="">Information Technology Technician by <a href="https://www.cotemig.com.br/">Cotemig</a>.</div>
-- <div align="">I love Video Games 🎮, Music 🎵 and Chess ♟️.</div>
+- <div align="">I love Video Games 🎮, Music 🎵 and Kiwi 🥝.</div>
 
 ##### <div align=""> You can find me in: </div>
 <div align="">
